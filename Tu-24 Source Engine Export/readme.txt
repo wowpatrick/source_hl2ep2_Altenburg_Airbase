@@ -1,0 +1,1 @@
+Read to user Source Engine exports of the Tu-24 model. Should be moved into e.g. D:\SteamLibrary\steamapps\common\Half-Life 2\hl2 (folder that contains the gameinfo.txt)
