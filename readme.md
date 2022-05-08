@@ -8,13 +8,20 @@ To launch in the Hammer editor:
 - Install Source SDK from Steam "Tools" section
 - Run hammer via the hammer.exe in `steamapps\common\Half-Life 2\bin\hammer.exe`
 
-Running the map:
+## Running the map:
 
 - Open in Hammer and click the "Run Map!" icon 
 
-Installing assets (Tu-24):
+## Installing assets (Tu-24):
 - Copy folders `Tu-24 Source Engine Export\materials` and `Tu-24 Source Engine Export\models` to `SteamLibrary\steamapps\common\Half-Life 2\hl2` (not sure if `SteamLibrary\steamapps\common\Half-Life 2\ep2` would also work).
 
-Screenshot:
+## Screenshots
 
-![Screenshot](screenshot.PNG) 
+![Screenshot](screenshots/source-engine-1.jpg)´
+![Screenshot](screenshots/source-engine-2.jpg)
+![Screenshot](screenshots/source-engine-3.jpg)
+![Screenshot](screenshots/source-engine-4.jpg)
+
+## Overview:
+
+![Screenshot](screenshots/overview.PNG) 
